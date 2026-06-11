@@ -13,6 +13,8 @@ A beautiful and functional economic indicator dashboard built with React, TypeSc
 [![GitHub license](https://img.shields.io/github/license/Yash7409/Economic-Indicator-Dashboard)](https://github.com/Yash7409/Economic-Indicator-Dashboard/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/Yash7409/Economic-Indicator-Dashboard)](https://github.com/Yash7409/Economic-Indicator-Dashboard/stargazers)
 
+
+## live link = (https://economic-indicator-dashboard.netlify.app/)
 ## 🚀 About the Project
 
 The Economic Indicator Dashboard is a modern, responsive web application built with React and TypeScript that provides real-time visualization of various economic indicators. It offers a clean and intuitive interface for monitoring and analyzing economic data from multiple sources.
