@@ -73,5 +73,5 @@ The Economic Indicator Dashboard is a modern, responsive web application built w
 
 1. Clone the repository
 ```bash
-git clone [https://github.com/Yash7409/Economic-Indicator-Dashboard.git](https://github.com/Yash7409/Economic-Indicator-Dashboard.git)
+git clone [https://github.com/Utkarsh0930/Economic-Indicator-Dashboard.git](https://github.com/Utkarsh0930/Economic-Indicator-Dashboard.git)
 cd Economic-Indicator-Dashboard
